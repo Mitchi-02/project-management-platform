@@ -8,7 +8,7 @@ Students can team up and submit their startup idea for approval by the scientifi
 
 ## Get Started
 
-#### Frontend
+### Frontend
 Don't forget to fill the env variable with api url.
 ```
 cp .env.example .env
@@ -16,7 +16,7 @@ npm / yarn / pnpm install
 npm / yarn / pnpm dev
 ```
 
-#### Backend
+### Backend
 Don't forget to change your env variables: db connection, email credentiels, front-end urls and vonage keys.
 ```
 cp .env.example .env
