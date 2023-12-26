@@ -27,7 +27,7 @@ php artisan db:seed
 php artisan storage:link
 php artisan ser
 ```
-In another shell, start the background queue that handles notifications and jobs using the command:
+In another shell, start the background queue that handles notifications using the command:
 ```
 php artisan queue:work
 ```
