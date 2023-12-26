@@ -17,7 +17,7 @@ npm / yarn / pnpm dev
 ```
 
 ### Backend
-Don't forget to change your env variables: db connection, email credentiels, front-end urls and vonage keys.
+Don't forget to change your env variables: db connection, email credentials, front-end urls and vonage keys.
 ```
 cp .env.example .env
 composer install
